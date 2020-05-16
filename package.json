@@ -2,7 +2,7 @@
     "name": "cinnamon",
     "displayName": "Cinnamon",
     "description": "vsCode Theme",
-    "version": "0.1.0",
+    "version": "0.2.0",
     "publisher": "imran",
     "engines": {
         "vscode": "^1.45.0"
