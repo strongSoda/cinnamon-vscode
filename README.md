@@ -1,8 +1,8 @@
 # Cinnamon
 
-Dark VsCode Color theme by @strongSoda
+Dark VsCode Color theme by [@strongSoda](https://github.com/strongsoda/)
 
-![preview](./cover.png)
+<img src="https://github.com/strongsoda/cinnamon/raw/master/cover.png" alt="Preview">
 
 ## Installation
 
